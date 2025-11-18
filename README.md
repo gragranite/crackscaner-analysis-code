@@ -126,7 +126,11 @@ Required libraries:
 • Boundary must be fully closed or no scanlines are valid.
 • Extremely large SVGs may reduce performance.
 • Illustrator paths should be constructed carefully for accuracy.
+Example Data Included:
+The trace data of Fig. 3 (a), (b), and (c) in Suzuki et al. (1998) are included as x3.txt, x2.txt, and x1.txt, respectively.
 9. References
 Oda, M., Katsube, T., Takemura, T. (2002). Microcrack evolution and brittle failure of Inada granite in triaxial compression tests at 140 MPa. Journal of Geophysical Research, 107(B10), 2233.
+Suzuki, K., Oda, M., Yamazaki, M., & Kuwahara, T. (1998). Permeability changes in granite with crack growth during immersion in hot water, Int J Rock Mech Min Sci, 35(7), 907-921
 Takemura, T., Oda, M. (2004). Stereology-based fabric analysis of microcracks in damaged granite. Tectonophysics, 387, 131–150.
-<img width="432" height="647" alt="image" src="https://github.com/user-attachments/assets/ad4e9770-5a8d-4acd-b9f5-807d75af06b8" />
+<img width="432" height="647" alt="image" src="https://github.com/user-attachments/assets/5cb8f56c-ecf2-4ac0-ac79-b5465edeebd9" />
+
