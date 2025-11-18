@@ -132,5 +132,3 @@ The trace data of Fig. 3 (a), (b), and (c) in Suzuki et al. (1998) are included 
 Oda, M., Katsube, T., Takemura, T. (2002). Microcrack evolution and brittle failure of Inada granite in triaxial compression tests at 140 MPa. Journal of Geophysical Research, 107(B10), 2233.
 Suzuki, K., Oda, M., Yamazaki, M., & Kuwahara, T. (1998). Permeability changes in granite with crack growth during immersion in hot water, Int J Rock Mech Min Sci, 35(7), 907-921
 Takemura, T., Oda, M. (2004). Stereology-based fabric analysis of microcracks in damaged granite. Tectonophysics, 387, 131–150.
-<img width="432" height="647" alt="image" src="https://github.com/user-attachments/assets/5cb8f56c-ecf2-4ac0-ac79-b5465edeebd9" />
-
